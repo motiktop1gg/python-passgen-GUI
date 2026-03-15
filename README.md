@@ -1,3 +1,5 @@
+![Screenshot](assets/screenshot.png)
+
 # 🔐 Python GUI Password Generator
 
 A powerful password generator with a clean GUI, supporting memorable words, non-repeating characters, and customizable settings. Saves all passwords to a file for future reference.
