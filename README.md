@@ -15,7 +15,7 @@ A powerful password generator with a clean GUI, supporting memorable words, non-
 
 ## Usage
 1. Clone this repository:  
-   `git clone <your-repo-url>`
+   `git clone https://github.com/motiktop1gg/python-passgen-GUI`
 2. Navigate to the project directory and run the GUI:  
    `python main.py`
 3. Enter desired settings:
